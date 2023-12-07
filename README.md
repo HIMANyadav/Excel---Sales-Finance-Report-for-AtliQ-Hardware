@@ -1,6 +1,6 @@
 # Sales & Finance Analytics of AtliQ Hardwares
 
-You can find the presentation video [**here**](https://youtu.be/-C8B6O8dZq8)
+You can find the presentation video [**here**]()
 
 
 ## Table of Contents

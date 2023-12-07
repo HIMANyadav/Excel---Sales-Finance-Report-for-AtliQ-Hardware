@@ -6,11 +6,11 @@ You can find the presentation video [**here**](https://youtu.be/-C8B6O8dZq8)
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Project Objective](#Project Objective)
+- [Project Objective](#ProjectObjective)
 - [Company Background](#company-background)
 - [Insights](#insights)
-- [Technical Skills Gained](#Technical Skills Gained)
-- [Soft Skills Gained](#Soft Skills Gained)
+- [Technical Skills Gained](#TechnicalSkillsGained)
+- [Soft Skills Gained](#SoftSkillsGained)
 
 
 ## Introduction

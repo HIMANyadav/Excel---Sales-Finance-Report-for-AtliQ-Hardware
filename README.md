@@ -23,11 +23,11 @@ AtliQ Hardware, a global leader in computer and computer accessories sales, has 
 
     **2.** Conduct a comprehensive comparison between _[market performance vs sales targets](https://github.com/HIMANyadav/Excel---Sales-Finance-Report-for-AtliQ-Hardware/blob/main/3.%20a.%20Markets%20Performance%20vs%20Targets.pdf)_
 
-                 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+ - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
-                 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+ - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
 
-                 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+ - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 
 ## Finance Report :
@@ -38,11 +38,11 @@ AtliQ Hardware, a global leader in computer and computer accessories sales, has 
 
    **2.** Create a Profit and Loss (P&L) reports by _[Markets](https://github.com/HIMANyadav/Excel---Sales-Finance-Report-for-AtliQ-Hardware/blob/main/2.c.%20P%20&%20L%20Statement%20for%20Markets.pdf)_
 
-                 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+ - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
-                 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+ - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
-                 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+ - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 
 
